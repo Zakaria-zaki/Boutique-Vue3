@@ -2,10 +2,13 @@
 </script>
 
 <template>
-    <div>
-        <h1>Shop</h1>
+    <div class="product b5">
+        <h1>Cart Product</h1>
     </div>
 </template>
 
 <style lang="scss">
+.product {
+    margin-bottom: 10px;
+}
 </style>

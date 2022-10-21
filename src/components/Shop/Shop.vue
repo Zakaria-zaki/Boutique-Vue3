@@ -1,9 +1,10 @@
 <script setup lang="ts">
+import ShopProductList from './ShopProductList.vue'
 </script>
 
 <template>
     <div>
-        <h1>Cart</h1>
+        <ShopProductList />
     </div>
 </template>
 
